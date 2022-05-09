@@ -1,4 +1,4 @@
-This is a simple quiz app built using html,css and js.
+A quiz app built on html,css and js.
 
 **Hope you like it!!!** Feel free to share ur opinions on it :)
 
